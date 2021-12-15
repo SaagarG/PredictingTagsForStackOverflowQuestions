@@ -32,6 +32,4 @@ No strict latency constraints.
 
 - Sagar Gupta
 
-## **Acknowledgement**
 
-- Applied AI Course
